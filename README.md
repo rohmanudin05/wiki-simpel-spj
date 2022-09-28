@@ -1,2 +1,2 @@
-# wiki-simpel-spj
+# wiki
 WIKI SIMPEL SPJ
